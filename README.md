@@ -1,7 +1,8 @@
 ## Oi eu sou o Bruno Matheus Ribeiro!!
 
 - 🔭 Tenho o objetivo de ser desenvolvedor back-end
-- 🌱 Estudando C# e Java 
+- 🌱 Estudando C# e Java
+- 🔍 Quality Assurance | QA Tester | QA Junior
 
 
 <div style="display: inline_block"><br>
