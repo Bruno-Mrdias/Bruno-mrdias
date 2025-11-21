@@ -2,7 +2,7 @@
 
 - 🔭 Tenho o objetivo de ser QA 
 - 🌱 Estudando e Focado na área de TI
-- 🔍 Quality Assurance | QA Tester | QA Junior
+- 🔍 Quality Assurance | QA Tester | QA
 
 
 <div style="display: inline_block"><br>
